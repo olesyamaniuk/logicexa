@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://fireworksmatch.com/sitemap.xml
+Sitemap: https://logicexa.site/sitemap.xml
